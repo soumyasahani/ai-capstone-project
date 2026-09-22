@@ -18,3 +18,9 @@ Currently in the setup phase.
 ## Development Approach
 
 AI-assisted development will be used for planning, implementation, debugging, documentation, and code review.
+## Goals
+
+- Build the project using AI-assisted development.
+- Practice Git and GitHub workflows.
+- Maintain clean and readable code.
+- Document the development process.
