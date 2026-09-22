@@ -6,8 +6,8 @@ This repository contains my capstone project developed as part of the AI-assiste
 
 ## Tech Stack
 
-- JavaScript
 - Node.js
+- JavaScript
 - Git
 - GitHub
 
